@@ -41,8 +41,7 @@ Federated plugin [documentation](https://docs.flutter.dev/packages-and-plugins/d
 ---
 
 Скачать [flutter](https://developer.auroraos.ru/downloads/flutter/3.29.2/linux)
+
 [Документация flutter](https://developer.auroraos.ru/doc/extended/flutter)
+
 [Чат поддержки](https://t.me/aurora_devs/23477)
-
-
----
